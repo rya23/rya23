@@ -7,13 +7,13 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rya23&repo=Finance-Tracker&theme=nord)](https://github.com/rya/Finance-Tracker) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rya23&repo=Finance-Tracker&theme=dark)](https://github.com/rya/Finance-Tracker) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rya23&repo=wikipedia-graph&theme=nord)](https://github.com/rya23/wikipedia-graph)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rya23&repo=wikipedia-graph&theme=dark)](https://github.com/rya23/wikipedia-graph)
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rya23&theme=nord)](https://github.com/rya23/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rya23&theme=dark)](https://github.com/rya23/github-readme-stats)
 
 📫 Contact me : <br /> 
   ⚡ Email --> thakur.aarya23@gmail.com <br /> 
