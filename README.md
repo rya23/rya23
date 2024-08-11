@@ -7,9 +7,20 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rya23&repo=Finance-Tracker&theme=dark)](https://github.com/rya/Finance-Tracker) 
+## Some of My Projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rya23&repo=wikipedia-graph&theme=dark)](https://github.com/rya23/wikipedia-graph)
+<div style="display: flex; justify-content: space-between;">
+
+  <a href="https://github.com/rya23/Finance-Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rya23&repo=Finance-Tracker&theme=dark" alt="Finance Tracker"">
+  </a>
+
+  <a href="https://github.com/rya23/wikipedia-graph">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rya23&repo=wikipedia-graph&theme=dark" alt="Wikipedia Graph">
+  </a>
+
+</div>
+
 
 ### Top Languages
 
