@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello there ![👋](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) and Welcome to my Github Profile
 
-<!--
-**rya23/rya23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### My Favourite Language is Python <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25" height="25"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### These are some of the projects I've worked on:
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rya23&repo=Finance-Tracker&theme=nord)](https://github.com/rya/Finance-Tracker) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rya23&repo=wikipedia-graph&theme=nord)](https://github.com/rya23/wikipedia-graph)
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rya23&theme=nord)](https://github.com/rya23/github-readme-stats)
+
+📫 Contact me : <br /> 
+  ⚡ Email --> thakur.aarya23@gmail.com <br /> 
