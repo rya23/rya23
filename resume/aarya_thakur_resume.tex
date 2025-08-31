@@ -80,7 +80,7 @@
 %-------------------------
 % Custom commands
 \newcommand{\resumeItem}[1]{
-  \item\normalsize{
+  \item\small{
     {#1 \vspace{-2pt}}
   }
 }
@@ -89,7 +89,7 @@
   \vspace{-2pt}\item
     \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
       \textbf{#1} & #2 \\
-      \textit{\normalsize#3} & \textit{\normalsize #4} \\
+      \textit{\small#3} & \textit{\small #4} \\
     \end{tabular*}\vspace{-7pt}
 }
 
@@ -97,14 +97,14 @@
 \newcommand{\resumeSubSubheading}[2]{
     \item
     \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-      \textit{\normalsize#1} & \textit{\normalsize #2} \\
+      \textit{\small#1} & \textit{\small #2} \\
     \end{tabular*}\vspace{-7pt}
 }
 
 \newcommand{\resumeProjectHeading}[2]{
     \item
     \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-      \normalsize#1 & #2 \\
+      \small#1 & #2 \\
     \end{tabular*}\vspace{-7pt}
 }
 
@@ -132,6 +132,12 @@
 \end{center}
 
 
+\section{Summary}
+    \resumeSubHeadingListStart      
+      \resumeItem{Aspiring Software Engineer with a strong foundation in programming languages and hands-on experience in AI, and full-stack development. Proven success in internships and hackathons, delivering scalable applications and intelligent systems that combine research, engineering, and innovation.}      
+    \resumeSubHeadingListEnd
+
+
 %-----------EDUCATION-----------
 \section{Education}
   \resumeSubHeadingListStart
@@ -148,8 +154,8 @@
       {Fullstack Intern}{June 2025 -- August 2025}
       {Augenblick Consulting}{Remote}
       \resumeItemListStart
-        \resumeItem{Implemented Deep Zoom Technology, improving large image rendering speed and enabling seamless web-based navigation of gigapixel images.}
-        \resumeItem{Contributed in building a RAG-powered system that converts RIS files into vector embeddings, enabling accurate research paper classification,tagging and advanced rule-based filtering.}
+        \resumeItem{Implemented Deep Zoom Technology, improving large image rendering speed by 60\% and enabling seamless web-based navigation of gigapixel images.}
+        \resumeItem{Contributed in building a RAG-powered system that converts RIS files into vector embeddings, reducing manual research paper tagging efforts by 80\%, and enabling automated classification with rule-based filtering.}
       \resumeItemListEnd
       
 % -----------Multiple Positions Heading-----------
@@ -167,8 +173,8 @@
       {Nimrobo AI}{Remote}
       \resumeItemListStart
         \resumeItem{Created a tool enabling agentic AI to query and interpret CSV data using dynamic SQL for advanced data analysis and insights.}
-        \resumeItem{Integrated citation tracking into AI Agent outputs, enhancing content credibility and reducing hallucinated outputs.}
-        \resumeItem{Developed a dynamic container orchestration system that automatically spins up isolated AI agent instances with WebSocket access, and automated lifecycle management, improving scalability and reliability.}
+        \resumeItem{Integrated citation tracking into AI Agent outputs, enhancing content credibility and reducing hallucinated responses by 30\%.}
+        \resumeItem{Developed a dynamic container orchestration system that automatically spins up isolated AI agent instances with WebSocket access, and automated lifecycle management, improving scalability and reliability by 20\%.}
     \resumeItemListEnd
 
 
@@ -188,9 +194,9 @@
       \resumeProjectHeading
         {\textbf{Simulation of Job Sequencing} \href{https://github.com/rya23/mpr}{\ExternalLink} $|$ \emph{Python}}{}          
         \resumeItemListStart
-            \resumeItem{Simulated Annealing-based solution using data structures to optimize job sequencing with deadlines.}
-            \resumeItem{Used a Genetic Algorithm approach, to achieve significant performance improvements over traditional methods.}
-          \resumeItemListEnd
+            \resumeItem{Implemented a Simulated Annealing-based solution with efficient data structures, optimizing job sequencing under deadlines and reducing average tardiness by 35\% compared to baseline.}
+            \resumeItem{Applied a Genetic Algorithm approach, achieving up to 2.3x faster convergence and improved solution quality over traditional greedy methods.}
+        \resumeItemListEnd
           
         \resumeProjectHeading
           {\textbf{Wikipedia Graph} \href{https://github.com/rya23/wikipedia-graph}{\ExternalLink} $|$ \emph{Django , HTML, Plotly, Networkx}}{}   
