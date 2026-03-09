@@ -42,11 +42,11 @@
     <tr>
         <td><strong>Backend</strong></td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" title="Django" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" title="Express" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" title="Django" style="filter: invert(1)"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" title="Express" style="filter: invert(1)" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" title="Node.js" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" title="FastAPI" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36" title="Flask" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36" title="Flask" style="filter: invert(1)" />
         </td>
     </tr>
     <tr>
@@ -58,6 +58,7 @@
                 src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png"
                 width="36"
                 title="Langchain"
+                style="filter: invert(1)"****
             />
         </td>
     </tr>
@@ -80,4 +81,5 @@
 
 Contact me: <br />
 Email: thakur.aarya23@gmail.com
-****
+
+---
