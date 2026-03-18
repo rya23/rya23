@@ -14,8 +14,6 @@
 
 **[Metaheuristic Job Scheduler](https://github.com/rya23)** — Genetic Algorithm vs Simulated Annealing benchmark across 5,000 tasks
 
----
-
 ## Skills
 
 <table border="1">
@@ -81,5 +79,3 @@
 
 Contact me: <br />
 Email: thakur.aarya23@gmail.com
-
----
