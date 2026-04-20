@@ -8,13 +8,13 @@
 
 ## Some of My Projects:
 
-**[MatryoshkaSearch](https://github.com/rya23)** — Fine-tuned retrieval pipeline with 10–13% NDCG gains using Matryoshka Representation Learning.
+**[MatryoshkaSearch](https://github.com/rya23/MatryoshkaSearch)** — Fine-tuned retrieval pipeline with 10–13% NDCG gains using Matryoshka Representation Learning.
 
-**[CollabNext](https://github.com/rya23)** — Real-time collaborative editor and Gemini-powered AI workflows.
+**[CollabNext](https://github.com/rya23/CollabNext)** — Real-time collaborative editor and Gemini-powered AI workflows.
 
 **[CRDT Collaborative Editor Playground](https://github.com/rya23/crdt-demo)** — Character-level Conflict-free Replicated Data Type (CRDT) implementation for real-time collaborative editing.
 
-**[Metaheuristic Job Scheduler](https://github.com/rya23)** — Genetic Algorithm vs Simulated Annealing benchmark across 5,000 tasks
+**[Metaheuristic Job Scheduler](https://github.com/rya23/mpr)** — Genetic Algorithm vs Simulated Annealing benchmark across 5,000 tasks
 
 ## Skills
 
