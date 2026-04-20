@@ -12,6 +12,8 @@
 
 **[CollabNext](https://github.com/rya23)** — Real-time collaborative editor and Gemini-powered AI workflows.
 
+**[CRDT Collaborative Editor Playground](https://github.com/rya23/crdt-demo)** — Character-level Conflict-free Replicated Data Type (CRDT) implementation for real-time collaborative editing.
+
 **[Metaheuristic Job Scheduler](https://github.com/rya23)** — Genetic Algorithm vs Simulated Annealing benchmark across 5,000 tasks
 
 ## Skills
